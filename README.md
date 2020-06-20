@@ -1,2 +1,2 @@
 # MVCWithAngular
- Angular Js With C# MVC
+ Angular Js With C# MVC for Begineers
